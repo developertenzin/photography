@@ -31,8 +31,9 @@ Exposure is how much of the light that is hitting your subject is entering your 
   #### <center> The Exposure Triangle</center>
   Now that you understand the 3 key factors affecting exposure, you are ready to go out there and test your knowledge and be creative by rotating that dial to "M" (manual). Photography is all about controlling and balancing the above 3 factors to capture that perfect image, which is also known as "The Exposure Triangle".
 
-  ![the exposure triangle](the_exposure_triangle.png)
+  <center>![the exposure triangle](the_exposure_triangle.png)</center>
 
   As shown in the image above, even though ISO, Shutter Speed and Aperture all affect exposure, there are key differences in how each affects light and how to leverage them depending on the situation.
 
-  
+  ##### Metering system and Histogram
+  (to be continued later...)
